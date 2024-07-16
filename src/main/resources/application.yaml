@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hugging-face
+
+hugging-face:
+  url: https://api-inference.huggingface.co/models
